@@ -1,0 +1,67 @@
+/*An electricity board charges as the following rates the domestic user .
+the consumption energy.
+for the 100 units ----16 paise/ unit
+for next 200 unit ----80 paisa / unit
+and beyond 300 unit--90 paisa / unit
+all charge min for rs 50 . if the total amount 300 then an additional sub charges of 15% is added.
+*/
+ 
+import java.util.*;
+
+public class E_bill {
+    int total_unit,unit ,present ,past, m_rent=50;
+    float sub_total;
+    public void inp_unit(int present,int past) {
+        this.present = present;
+        this.past = past;
+        unit = total_unit = present- past ;
+         
+    }
+    public void calc() {
+        if (total_unit <= 100) {
+                sub_total = (total_unit*16)/100f;
+        }else if(total_unit>100 && total_unit<=300){
+            int temp = 100;
+                sub_total = ((temp)*16)/100f;
+                total_unit-=temp;
+                sub_total += (total_unit*80)/100f;
+ 
+        }else{
+                int temp = 100; 
+                int temp2= 200;
+                sub_total = ((temp)*16)/100f;
+                total_unit-=temp;
+                sub_total += ((temp2)*80)/100f;
+                total_unit-=temp2;
+                sub_total += ((total_unit)*90)/100f; 
+        }
+        sub_total +=m_rent;
+        
+    }
+    public void display() {
+
+        System.out.println("welcome to SBPDCL");
+        System.out.println("Your total Electricity bill");
+        System.out.println("-------------------------------------");
+        System.out.println("Total Electricty unit :\t\t"+unit+"\t" + "Unit");
+        System.out.println("present reading       :\t\t"+ present+"\t"+"Unit");
+        System.out.println("last reading          :\t\t"+ past+"\t"+"Unit");
+        System.out.println("total unit            :\t\t"+ total_unit+"\t"+"Unit");
+        System.out.println("Meter rent            :\t\t"+ m_rent +"\t"+ "Rs");
+        System.out.println("sub total             :\t\t"+sub_total+"\t" + "Rs");
+        System.out.println("---------Thanks visit again-----------");
+    }
+    public static void main(String[] args) {
+        E_bill Eb1 = new E_bill();
+        Scanner scan = new Scanner(System.in);
+        
+        System.out.println("Enter last meter reading");
+        int past = scan.nextInt();
+        System.out.println("Enter present meter reading");
+        int present = scan.nextInt();
+        
+        Eb1.inp_unit(present,past);
+        Eb1.calc();
+        Eb1.display();
+    }
+}
