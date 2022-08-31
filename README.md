@@ -9,7 +9,6 @@ I am SURAJ. I have multiple repositories of Python, JavaScript, ReactJs etc. You
 - 🔭 I’m working on React , C++
 - 🌱 I’m currently learning Java Development.
 - ⚡ Fun fact: I love Cricket
-- 🚀 I like Astrophysics ! 🌌
 - 🏏 Favourite Sport: Cricket
 -  Age: 20+ 🖋
 
