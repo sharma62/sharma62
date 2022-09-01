@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Suraj 
   
-I am SURAJ. I have multiple repositories of Python, JavaScript, ReactJs etc. You can check it out 👇🏻. Also take a look at my Github Stats.
+ 
 
 ![](https://komarev.com/ghpvc/?username=sharma62&color=brightgreen)
 
