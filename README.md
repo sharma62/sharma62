@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Java Development.
 - ⚡ Fun fact: I love Cricket
 - 🏏 Favourite Sport: Cricket
--  Age: 20+ 🖋
+- 🖋  Age: 20+
 
 ---
 
