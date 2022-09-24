@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&labelColor=06283D&color=06283D&logoColor=ffffff)
 
 
-<summary align = "center" > Language and Technology 
+<summary align = "center" > Lang & Tech 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
