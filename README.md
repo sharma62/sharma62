@@ -4,6 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sharma62&color=brightgreen)
 
+
 #### My Info:
 
 - 🔭 I’m working on React , C++
@@ -14,18 +15,11 @@
 
 ---
 
-![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&labelColor=06283D&color=06283D&logoColor=ffffff)
-![](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&labelColor=06283D&color=06283D&logoColor=ffffff)
-![](https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&labelColor=06283D&color=06283D&logoColor=ffffff)
-![](https://img.shields.io/badge/react-informational?style=for-the-badge&logo=react&labelColor=06283D&color=06283D&logoColor=ffffff)
-![](https://img.shields.io/badge/html5-informational?style=for-the-badge&logo=html5&labelColor=06283D&color=06283D&logoColor=ffffff)
-![](https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&labelColor=06283D&color=06283D&logoColor=ffffff)
-
 
 <summary align = "center" > Lang & Tech 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>x`
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -39,7 +33,20 @@
 </details>
 
 ---
-# Social  Links
 
-
+ <!-- Details Section-->
+<details>
+    <summary> Connect </summary>
+    <p align="center">
+        <!-- Social Links -->
+        <p>Find me on</p>
+        <!-- Gmail -->
+        <a href="mailto:surajkumarsharma62@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+        <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/suraj-kr-sharma-470a89194/" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        </a>
+</details>
 
