@@ -7,7 +7,7 @@
 
 #### My Info:
 
-- 🔭 I’m working on React , C++
+- 🔭 I’m working on React , C++ , Comming soon ...
 - 🌱 I’m currently learning Java Development.
 - ⚡ Fun fact: I love Cricket
 - 🏏 Favourite Sport: Cricket
