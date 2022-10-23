@@ -8,8 +8,8 @@
 #### My Info:
 
 - 🔭 I’m working on React , C++ , Comming soon ...
-- 🌱 I’m currently learning Java Development.
-- ⚡ Fun fact: I love Cricket
+- 🌱 I’m currently learning Data Structures & Algorithm.
+- ⚡ Fun fact: Always do Batter your self.
 - 🏏 Favourite Sport: Cricket
 - 🖋  Age: 21+
 
