@@ -7,7 +7,7 @@
 
 #### My Info:
 
-- 🔭 I’m working on React , C++ , Comming soon ...
+- 🔭 I’m working on React & DSA
 - 🌱 I’m currently learning Data Structures & Algorithm.
 - ⚡ Fun fact: Always do Batter your self.
 - 🏏 Favourite Sport: Cricket
