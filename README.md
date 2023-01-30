@@ -48,4 +48,3 @@
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
 </details>
-
