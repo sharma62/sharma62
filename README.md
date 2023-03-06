@@ -47,4 +47,9 @@
         <a href="https://www.linkedin.com/in/suraj-kr-sharma-470a89194/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
+        <!-- YouTube 
+         <a href="https://www.youtube.com/channel/UCSfnXNs2On0tL73nmtB4tdw/" target="_blank"><img alt="YouTube"
+                src="https://img.shields.io/badge/-Youtube-0A66C2?style=flat-square&logo=youtube&logoColor=white">
+        </a>-->
+        
 </details>
