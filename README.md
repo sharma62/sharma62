@@ -7,11 +7,10 @@
 
 #### My Info:
 
-- 🔭 I’m working on React & DSA
+- 🔭 I’m working on entrepreneurship.
 - 🌱 I’m currently learning Data Structures & Algorithm.
-- ⚡ Fun fact: Always do Batter your self.
+- ⚡ Fun fact: Always Batter yourself.
 - 🏏 Favourite Sport: Cricket
-- 🖋  Age: 21+
 
 ---
 
